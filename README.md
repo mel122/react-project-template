@@ -11,7 +11,7 @@ Let's start by opening up Google Cloud Shell. You'll want to use the route that 
 
 #### Step 2: Make a Copy of the Template
 
-Next, open up the [project template on GitHub](https://github.com/upperlinecode/react-project-template-for-google-cloudshell) and click "use this template" to get a copy of a react template. Note that you'll need to be logged in to GitHub to make that happen.
+Next, click "use this template" to get a copy of a react template. Note that you'll need to be logged in to GitHub to make that happen.
 
 You can use any name you want for this project, but a good one for your students to use might be `my-first-react-project` - then students will know they've arrived at their own copy of this template when the title of the project is no longer `upperlinecode/react-project-template-for-google-cloudshell` but has instead been changed to `their-username/my-first-react-project`.
 
